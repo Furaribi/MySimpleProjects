@@ -32,7 +32,7 @@ class trapezoid:
         print('your trapezoid area is: ' f"{self.area: .2f}" )
 
 print(
-    'pls choose your need... \n A for trinagle. \n B for circle. \n C for rhombus. \n D for trapzoid.'
+    'pls choose your need... \n A for trinagle. \n B for circle. \n C for rhombus. \n D for trapezoid.'
 )
 draw_list = ['a', 'b', 'c', 'd']
 get_draw = input('Type what you need: ').lower()
