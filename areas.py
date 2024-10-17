@@ -22,14 +22,14 @@ class rhombus:
         self.area = self.base * self.height
         print('your rhombus area is: ' f"{self.area: .2f}" )
         
-class trapzoid:
+class trapezoid:
     def __init__(self , b1, b2, h):
         self.base1 = b1
         self.base2 = b2
         self.height = h
     def area(self):
         self.area = self.height * (self.base1 + self.base2) / 2
-        print('your rhombus area is: ' f"{self.area: .2f}" )
+        print('your trapezoid area is: ' f"{self.area: .2f}" )
 
 print(
     'pls choose your need... \n A for trinagle. \n B for circle. \n C for rhombus. \n D for trapzoid.'
@@ -56,5 +56,5 @@ if get_draw == 'd':
     height = float(input('please inter the height: '))
     base1= float(input('pls inter the top base: '))
     base2 = float(input('pls inter bottom base: '))
-    my_trapzoid = trapzoid(height, base1, base2)
-    my_trapzoid.area()
+    my_trapezoid = trapezoid(height, base1, base2)
+    my_trapezoid.area()
