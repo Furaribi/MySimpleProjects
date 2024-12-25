@@ -1,40 +1,40 @@
-{'fench': 'Bonjour', 'english': 'Hello'}
-{'fench': 'Merci' , 'english': 'Thankyou'}
-{'fench': 'Oui', 'english': 'Yes'}
-{'fench':'Non' , 'english': 'No'}
-{'fench': 'Pardon', 'english': 'Sorry'}
-{'fench': 'Excusez-moi', 'english': 'Excusseme'}
-{'fench': 'Au revoir', 'english': 'Goodbye'}
-{'fench': 'Combien', 'english': 'Howmuch'}
-{'fench': 'Demain', 'english': 'Tomorrow'}
-{'fench': 'Aujourd'hui', 'english': 'Today'}
-{'fench': 'Maintenant', 'english': 'Now'}
-{'fench': 'Hier', 'english': 'Yesterday'}
-{'fench': 'Homme', 'english': 'Man'}
-{'fench': 'Femme', 'english': 'Woman'}
-{'fench': 'Ami/amie', 'english': 'Friend'}
-{'fench': 'Enfant', 'english': 'Child'}
-{'fench': 'Famille', 'english': 'Family'}
-{'fench': 'Maison', 'english': 'House'}
-{'fench': 'Voiture', 'english': 'Car'}
-{'fench': 'Chien', 'english': 'Dog'}
-{'fench': 'Chat', 'english': 'Cat'}
-{'fench': 'Manger', 'english': 'Toeat'}
-{'fench': 'Boire', 'english': 'Todrink'}
-{'fench': 'Dormir', 'english': 'Tosleep'}
-{'fench': 'Travail', 'english': 'Work'}
-{'fench': 'Étude', 'english': 'Study'}
-{'fench': 'Bon', 'english': 'Good'}
-{'fench': 'Mauvais', 'english': 'Bad'}
-{'fench': 'Qui', 'english': 'Who'}
-{'fench': 'Quoi', 'english': 'What'}
-{'fench': 'Où', 'english': 'Where'}
-{'fench': 'Pourquoi', 'english': 'Why'}
-{'fench': 'Quand', 'english': 'When'}
-{'fench': 'Matin', 'english': 'Morning'}
-{'fench': 'Après-midi', 'english': 'Afternoon'}
-{'fench': 'Soir', 'english': 'Evening'}
-{'fench': 'Nuit', 'english': 'Night'}
-{'fench': '', 'english': ''}
-{'fench': '', 'english': ''}
-{'fench': '', 'english': ''}
+{"french":"Bonjour","english":"Hello"}
+{"french":"Merci","english":"Thankyou"}
+{"french":"Oui","english":"Yes"}
+{"french":"Non","english":"No"}
+{"french":"Pardon","english":"Sorry"}
+{"french":"Excusez-moi","english":"Excuseme"}
+{"french":"Aurevoir","english":"Goodbye"}
+{"french":"Combien","english":"Howmuch"}
+{"french":"Demain","english":"Tomorrow"}
+{"french":"Aujourd'hui","english":"Today"}
+{"french":"Maintenant","english":"Now"}
+{"french":"Hier","english":"Yesterday"}
+{"french":"Homme","english":"Man"}
+{"french":"Femme","english":"Woman"}
+{"french":"Ami/amie","english":"Friend"}
+{"french":"Enfant","english":"Child"}
+{"french":"Famille","english":"Family"}
+{"french":"Maison","english":"House"}
+{"french":"Voiture","english":"Car"}
+{"french":"Chien","english":"Dog"}
+{"french":"Chat","english":"Cat"}
+{"french":"Manger","english":"Toeat"}
+{"french":"Boire","english":"Todrink"}
+{"french":"Dormir","english":"Tosleep"}
+{"french":"Travail","english":"Work"}
+{"french":"Étude","english":"Study"}
+{"french":"Bon","english":"Good"}
+{"french":"Mauvais","english":"Bad"}
+{"french":"Qui","english":"Who"}
+{"french":"Quoi","english":"What"}
+{"french":"Où","english":"Where"}
+{"french":"Pourquoi","english":"Why"}
+{"french":"Quand","english":"When"}
+{"french":"Matin","english":"Morning"}
+{"french":"Après-midi","english":"Afternoon"}
+{"french":"Soir","english":"Evening"}
+{"french":"Nuit","english":"Night"}
+{"french":"Nourriture","english":"Food"}
+{"french":"Eau","english":"Water"}
+{"french":"Feu","english":"Fire"}

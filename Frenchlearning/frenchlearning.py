@@ -1,8 +1,10 @@
 import random
 import json
 def random_line_from_file(file_path):
-    with open(file_path, "r") as file:
-        lines = [json.loads(line) for line in file]
-        return random.choice(lines)
-w = random_line_from_file("C:/Users/furaribi/Documents/MySimpleProjects/Frenchlearning/fenchwords.txt")
-print(w)
+    with open(file_path, 'r') as f:
+        lines = f.readlines()
+        chosen =random.choice(lines).strip()
+        return json.loads(chosen)
+
+words_path ="C:/Users/furaribi/Documents/MySimpleProjects/Frenchlearning/frenchwords.txt"
+print(random_line_from_file(words_path))
